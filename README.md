@@ -11,6 +11,10 @@ I’m interested in ... gaining more experience in Frontend but love to work on 
 🌱 
 I’m currently learning ... Clojure and Functional Programming 
 
+🤘
+I'm an active member of Texas ACM, UT's chapter of ACM, and serve as the Finance VP. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
+
+
 🎾
 In my free time, I enjoy playing tennis and even racquetball since the courts are closer. :)
 

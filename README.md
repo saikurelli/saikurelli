@@ -6,10 +6,10 @@ I predominantly code in Java, Python, and SQL but I have experience with a varie
 
 
 👀 
-I’m interested in ... gaining more experience in Frontend but love to work on Backend still.
+I’m interested in ... gaining more experience in Frontend in languages like Swift and React Native but love to work on Backend and experiment with CockroachDB.
 
 🌱 
-I’m currently learning ... Clojure and Functional Programming 
+I’m currently learning ... Wireshark and Swift
 
 🤘
 I'm an active member of Texas ACM, UT's chapter of ACM, and serve as the Finance VP. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
@@ -20,4 +20,4 @@ In my free time, I enjoy playing tennis and even racquetball since the courts ar
 
 📫 
 How to reach me ...
-Feel free to visit my website at https://saikurelli.github.io/.
+Feel free to contact me through my email and visit my website at https://saikurelli.github.io/

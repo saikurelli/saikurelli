@@ -1,18 +1,19 @@
 👋 
 ## Hi, I’m @saikurelli
 
-I'm a Junior CS Student at the University of Texas at Austin. I enjoy working on difficult problems and especially working with a team on them.
+I'm a CS Student at the University of Texas at Austin, in my senior year of a BS/MS program (Graduating May 2025). I enjoy working on difficult problems and especially working with a team on them.
+
 I predominantly code in Java, Python, and SQL but I have experience with a variety of different languages including Scala, C, C++, and HTML/CSS.
 
 
 👀 
-I’m interested in ... gaining more experience in Frontend in languages like Swift and React Native but love to work on Backend and experiment with CockroachDB.
+I’m interested in ... gaining more experience in Frontend in languages like Swift and React Native but love to work on Backend like experimenting with CockroachDB.
 
 🌱 
-I’m currently learning ... Wireshark and Swift
+I’m currently learning ... Go and SwiftUI
 
 🤘
-I'm an active member of Texas ACM, UT's chapter of ACM, and serve as the Finance VP. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
+I'm an active member of Texas ACM, UT's chapter of ACM, and serve as the Co President. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
 
 
 🎾

@@ -1,7 +1,7 @@
 👋 
 ## Hi, I’m @saikurelli
 
-I'm a CS Student at the University of Texas at Austin, in my senior year of a BS/MS program (Graduating May 2025). I enjoy working on difficult problems and especially working with a team on them.
+I'm a CS Student at the University of Texas at Austin, in my senior year of its Integrated BS/MS in CS program (Graduating May 2025). I enjoy working on difficult problems and especially working with a team on them.
 
 I predominantly code in Java, Python, and SQL but I have experience with a variety of different languages including Scala, C, C++, and HTML/CSS.
 

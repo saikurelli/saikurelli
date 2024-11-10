@@ -13,11 +13,11 @@ I’m interested in ... gaining more experience in Frontend in languages like Sw
 I’m currently learning ... Go and SwiftUI
 
 🤘
-I'm an active member of Texas ACM, UT's chapter of ACM, and serve as the Co President. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
+I'm an active member of Texas ACM, UT's chapter of ACM, and served as a President. I also am a TA for CS 303E. You'll probably see me around the GDC, so feel free to say hi!
 
 
 🎾
-In my free time, I enjoy playing tennis and even racquetball since the courts are closer. :)
+In my free time, I enjoy playing tennis and especially racquetball since the courts are closer. :)
 
 📫 
 How to reach me ...
